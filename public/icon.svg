@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Nori">
+  <rect width="512" height="512" fill="#F4ECDD"/>
+  <!-- cobalt outline: same triangle, thicker stroke, drawn underneath -->
+  <polygon points="256,118 404,376 108,376" fill="#1F2FD1" stroke="#1F2FD1" stroke-width="92" stroke-linejoin="round"/>
+  <!-- rice -->
+  <polygon points="256,118 404,376 108,376" fill="#FFFDF8" stroke="#FFFDF8" stroke-width="72" stroke-linejoin="round"/>
+  <!-- a few rice-grain strokes -->
+  <g stroke="#1F2FD1" stroke-width="7" stroke-linecap="round" fill="none" opacity="0.55">
+    <path d="M226 168 q8 -6 16 -2"/>
+    <path d="M290 196 q6 4 4 12"/>
+    <path d="M168 300 q4 -8 12 -8"/>
+    <path d="M346 296 q6 6 2 14"/>
+    <path d="M250 232 q8 0 12 6"/>
+  </g>
+  <!-- nori band, flush with the flat bottom edge -->
+  <rect x="198" y="272" width="116" height="140" fill="#1F2FD1"/>
+</svg>
